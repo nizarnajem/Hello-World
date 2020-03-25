@@ -1,2 +1,2 @@
 # Hello-World
-Corsera Class
+Coursera Class
